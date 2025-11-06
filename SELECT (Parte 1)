@@ -1,0 +1,129 @@
+INSERT INTO gafanhotos (id, nome, profissao, nascimento, sexo, peso, altura, nacionalidade) VALUES
+(8, 'Daniel Morais', 'Auxiliar Administrativo', '1984-01-02', 'M', 78.50, 1.83, 'Brasil'),
+(9, 'Talita Nascimento', 'Farmacêutico', '1999-12-30', 'F', 55.20, 1.65, 'Portugal'),
+(10, 'Emerson Gabriel', 'Programador', '1920-12-30', 'M', 50.20, 1.65, 'Moçambique'),
+(11, 'Lucas Damascena', 'Auxiliar Administrativo', '1930-11-02', 'M', 63.20, 1.75, 'Irlanda'),
+(12, 'Leila Martin', 'Farmacêutico', '1975-04-22', 'F', 99.00, 2.15, 'Brasil'),
+(13, 'Letícia Neves', 'Programador', '1999-12-03', 'F', 87.00, 2.00, 'Brasil'),
+(14, 'Janaína Couto', 'Auxiliar Administrativo', '1987-11-12', 'F', 75.40, 1.66, 'EUA'),
+(15, 'Carlisson Rosa', 'Professor', '2010-08-01', 'M', 78.22, 1.98, 'Brasil'),
+(16, 'Jackson Telles', 'Programador', '1999-01-23', 'M', 55.75, 1.33, 'Portugal'),
+(17, 'Danilo Araujo', 'Dentista', '1975-12-10', 'M', 99.21, 1.87, 'EUA'),
+(18, 'Andreia Delfino', 'Auxiliar Administrativo', '1975-07-01', 'F', 48.64, 1.54, 'Irlanda'),
+(19, 'Valter Vilmerson', 'Ator', '1985-12-12', 'M', 88.55, 2.03, 'Brasil'),
+(20, 'Alan Silva', 'Programador', '1935-11-11', 'M', 76.99, 1.55, 'Brasil'),
+(21, 'Rosana Kunz', 'Professor', '1935-01-16', 'F', 55.24, 1.87, 'Brasil'),
+(22, 'Josiane Dutra', 'Empreendedor', '1950-01-20', 'F', 98.70, 1.04, 'Portugal'),
+(23, 'Elvis Schwarz', 'Dentista', '2011-05-07', 'M', 120.10, 2.22, 'Brasil'),
+(24, 'Paulo Narley', 'Auxiliar Administrativo', '1997-03-17', 'M', 120.10, 2.22, 'Brasil'),
+(25, 'Joade Assis', 'Médico', '1930-12-01', 'M', 65.88, 1.78, 'França'),
+(26, 'Nara Matos', 'Programador', '1978-03-17', 'F', 65.90, 1.33, 'Brasil'),
+(27, 'Marcos Dissoti', 'Empreendedor', '2010-01-01', 'M', 53.79, 1.54, 'Brasil'),
+(28, 'Ana Carolina Mendes', 'Ator', '2000-12-15', 'F', 88.30, 1.54, 'Brasil'),
+(29, 'Guilherme de Souza', 'Dentista', '2001-05-18', 'M', 132.70, 1.97, 'Moçambique'),
+(30, 'Bruno Torres', 'Auxiliar Administrativo', '2000-01-30', 'M', 44.65, 1.65, 'Brasil'),
+(31, 'Yuji Homa', 'Empreendedor', '1996-12-25', 'M', 33.90, 1.22, 'Japão'),
+(32, 'Raian Porto', 'Programador', '1989-05-05', 'M', 54.89, 1.54, 'Brasil'),
+(33, 'Paulo Batista', 'Ator', '1999-03-15', 'M', 110.20, 1.87, 'Portugal'),
+(34, 'Monique Precivalli', 'Auxiliar Administrativo', '2013-12-30', 'F', 48.20, 1.22, 'Brasil'),
+(35, 'Herisson Silva', 'Auxiliar Administrativo', '1965-10-10', 'M', 74.65, 1.56, 'EUA'),
+(36, 'Tiago Ulisses', 'Dentista', '1993-04-22', 'M', 150.33, 2.35, 'Brasil'),
+(37, 'Anderson Rafael', 'Programador', '1989-12-01', 'M', 64.22, 1.65, 'Brasil'),
+(38, 'Karine Ribeiro', 'Empreendedor', '1988-10-01', 'F', 42.10, 1.65, 'Brasil'),
+(39, 'Roberto Luiz Demetrio', 'Ator', '2007-10-09', 'M', 77.44, 1.56, 'Brasil'),
+(40, 'Jarismar Andrade', 'Dentista', '2000-06-23', 'M', 63.70, 1.33, 'Brasil'),
+(41, 'Janaina Oliveira', 'Professor', '1955-03-12', 'F', 52.90, 1.76, 'Canadá'),
+(42, 'Márcio Melo', 'Programador', '2011-11-20', 'M', 54.11, 1.55, 'EUA'),
+(43, 'Robson Rodlpho', 'Auxiliar Administrativo', '2000-08-08', 'M', 110.10, 1.55, 'EUA'),
+(44, 'Daniele Moledo', 'Empreendedor', '2006-08-11', 'F', 101.30, 1.99, 'Brasil'),
+(45, 'Neto Sophate', 'Ator', '1996-05-17', 'M', 59.28, 1.65, 'Portugal'),
+(46, 'Neriton Dias', 'Auxiliar Administrativo', '2009-10-30', 'M', 48.99, 1.29, 'Brasil'),
+(47, 'André Schmidt', 'Programador', '1993-07-26', 'M', 55.37, 1.22, 'Angola'),
+(48, 'Isaias Buscarino', 'Dentista', '2011-01-07', 'M', 99.90, 1.55, 'Moçambique'),
+(49, 'Rafael Guimma', 'Empreendedor', '1968-04-11', 'M', 88.88, 1.54, 'Brasil'),
+(50, 'Ana Carolina Hansen', 'Ator', '1970-10-11', 'F', 65.40, 2.08, 'EUA'),
+(51, 'Luiz Paulo', 'Professor', '1984-11-01', 'M', 75.12, 1.38, 'Portugal'),
+(52, 'Bruna Teles', 'Programador', '1980-11-07', 'F', 55.10, 1.86, 'Brasil'),
+(53, 'Diogo Padilha', 'Auxiliar Administrativo', '2001-01-01', 'M', 54.34, 1.88, 'Angola'),
+(54, 'Bruno Miltersteigh', 'Dentista', '1986-02-19', 'M', 77.45, 1.65, 'Alemanha'),
+(55, 'Elaine Nunes', 'Programador', '1998-08-15', 'F', 35.90, 2.00, 'Canadá'),
+(56, 'Silvio Ricardo', 'Programador', '2012-03-12', 'M', 65.99, 1.23, 'EUA'),
+(57, 'Denilson Barbosa', 'Empreendedor', '2000-01-08', 'M', 97.30, 2.00, 'Brasil'),
+(58, 'Jucinei Teixeira', 'Professor', '1977-11-22', 'F', 44.80, 1.76, 'Portugal'),
+(59, 'Bruna Santos', 'Auxiliar Administrativo', '1991-12-01', 'F', 76.30, 1.45, 'Canadá'),
+(60, 'André Vitebo', 'Médico', '1970-07-01', 'M', 44.11, 1.55, 'Brasil'),
+(61, 'André Santini', 'Programador', '1991-08-15', 'M', 66.00, 1.76, 'Itália'),
+(62, 'Ruan Valente', 'Programador', '1998-03-19', 'M', 101.90, 1.76, 'Itália'),
+(63, 'Nalton Mauricio', 'Médico', '1992-04-25', 'M', 86.01, 1.43, 'EUA'),
+(64, 'Rita Pontes', 'Professor', '1999-09-02', 'F', 54.10, 1.35, 'Angola'),
+(65, 'Carlos Camargo', 'Programador', '2005-02-22', 'M', 124.65, 1.33, 'Brasil'),
+(66, 'Philippe Oliveira', 'Auxiliar Administrativo', '2000-05-23', 'M', 105.10, 2.19, 'Brasil'),
+(67, 'Dayana Dias', 'Professor', '1993-05-30', 'F', 88.30, 1.66, 'Angola');
+
+INSERT INTO cursos (idcurso, nome, descricao, carga, totaulas, ano) VALUES
+(8, 'Python', 'Curso de Python', '40', '18', '2017'),
+(9, 'POO', 'Curso de Programação Orientada a Objetos', '60', '35', '2016'),
+(10, 'Excel', 'Curso completo de Excel', '40', '30', '2017'),
+(12, 'C++', 'Curso de C++ com Orientação a Objetos', '40', '25', '2017'),
+(13, 'C#', 'Curso de C#', '30', '12', '2017'),
+(14, 'Android', 'Curso de Desenvolvimento de Aplicativos Android', '60', '30', '2018'),
+(15, 'JavaScript', 'Curso de JavScript', '35', '18', '2017'),
+(17, 'Swift', 'Curso de Desenvolvimento de Aplicativos', '60', '30', '2019'),
+(18, 'Hardware', 'Curso de Montagem e Mnautenção de Computadores', '30', '12', '2017'),
+(19, 'Redes', 'Curso de Redes para Iniciantes', '40', '15', '2016'),
+(20, 'Segurança', 'Curso de Segurança', '15', '8', '2018'),
+(21, 'SEO', 'Curso de Otimização de Sites', '30', '12', '2017'),
+(22, 'Premiere', 'Curso de Edição de Vídeos com Premiere', '20', '10', '2017'),
+(23, 'After Effects', 'Curso de Edição de Vídeos com After Effects', '20', '10', '2018'),
+(24, 'WordPress', 'Curso de Criação de Sites com WordPres', '60', '30', '2019'),
+(25, 'Joomla', 'Curso de Criação de Sites com Joomla', '60', '30', '2019'),
+(26, 'Magento', 'Curso de Criação de Lojas Virtuais com Magento', '50', '25', '2019'),
+(27, 'Modelagem de Dados', 'Curso de Modelagem de Dados', '30', '12', '2020'),
+(28, 'HTML4', 'Curso Básico de HTML4, versão 4.0', '20', '9', '2010'),
+(29, 'PHP7', 'Curso de PHP, versão 7.0', '40', '20', '2020'),
+(30, 'PHP4', 'Curso de PHP, versão 4.0', '30', '11', '2010');
+
+select * from cursos
+order by nome;
+
+select * from cursos
+order by nome desc;
+
+select * from cursos
+order by nome asc;
+
+select nome, carga, ano from cursos
+order by nome;
+
+select ano, nome, carga from cursos
+order by ano, nome;
+
+select * from cursos
+where ano = '2016'
+order by nome;
+
+select nome, carga from cursos
+where ano = '2016'
+order by nome;
+
+select nome, descrição, ano from cursos
+where ano < 2015
+order by ano, nome;
+
+select nome, descrição, ano from cursos
+where ano != 2015
+order by ano, nome;
+
+select nome, ano from cursos
+where ano between 2014 and 2016
+order by ano desc, nome asc;
+
+select nome, descricao, ano from cursos
+where ano in (2014, 2016, 2020)
+order by ano;
+
+select nome, carga, totaulas from cursos
+where carga > 35 and totaulas < 30;
+
+select nome, carga, totaulas from cursos
+where carga > 35 or totaulas < 30;
