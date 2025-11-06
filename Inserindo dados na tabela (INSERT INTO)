@@ -1,0 +1,18 @@
+insert into pessoas
+(nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+('Maria', '1980-06-25', 'F', '65.5', '1.60', 'Brasil');
+
+select * from pessoas;
+
+insert into pessoas
+(id, nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+(DEFAULT, 'Creuza', '1920-12-30', 'F', '50.2', '1.65', DEFAULT);
+
+insert into pessoas values
+(DEFAULT, 'Adalgiza', '1920-11-2', 'F', '63.2', '1.75', 'Irlanda');
+insert into pessoas values
+(DEFAULT, 'Claúdio', '1975-4-22', 'M', '99.0', '2.15', 'Brasil'),
+(DEFAULT, 'Pedro', '1999-12-3', 'M', '87', '2', DEFAULT),
+(DEFAULT, 'Janaína', '1987-11-12', 'F', '75.4', '1.66', 'EUA');
